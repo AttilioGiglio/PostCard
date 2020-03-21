@@ -1,2 +1,2 @@
 # PostCard
-Project-Lesson-1-PostCard - HTML+CSS
+Project-Lesson-1-PostCard-HTML+CSS
